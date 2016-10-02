@@ -17,5 +17,6 @@ oven = { git = "https://github.com/uniphil/oven" }
 persistent = "0.2"
 
 [dependencies.cookie]
-version = "0.2"
+git = "https://github.com/alexcrichton/cookie-rs"
+rev = "c9e707263f6633c8828a8eaac5e0439bff0e286e"
 features = ["secure"]
